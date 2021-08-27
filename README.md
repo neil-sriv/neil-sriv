@@ -28,15 +28,14 @@
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+[![Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=neil-sriv)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--END_SECTION:activity-->
 
 </details>
