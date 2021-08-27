@@ -19,30 +19,13 @@
 
 <br />
 
-### Languages and Tools:
-
-<br />
+### Top Languages:
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neil-sriv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ---
+### 📕 Github Activity
 
-### 📕 Latest Blog Posts
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-[![Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=neil-sriv)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="neil-sriv's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+[![Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=neil-sriv&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
