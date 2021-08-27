@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/neil_sriv?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/neil-sriv&screen_name=neil_sriv)
 
-## I'm a Student and avid developer!!
+## I'm a student and avid developer!!
 
 
 - 🌱 I’m currently learning everything 🤣
